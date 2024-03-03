@@ -6,5 +6,6 @@
 * Methodo get, equals recebendo um objeto e toString retornando nome.
 
 ## Adicionado a classe Vetor
-
+* A ideia é utilizar Array armazenamento sequencial ['josé', 'joão'...].
+* Será implementado os methodos adiciona, pega, 
 ## Adiciona a classe Vetor teste
